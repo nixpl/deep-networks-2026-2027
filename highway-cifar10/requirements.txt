@@ -1,0 +1,5 @@
+torch>=2.0
+torchvision>=0.15
+tqdm>=4.66
+matplotlib>=3.8
+jupyter>=1.0
