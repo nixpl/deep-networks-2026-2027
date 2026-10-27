@@ -2,7 +2,5 @@
 **/__pycache__/
 **/*.py[cod]
 **/data/
-**/runs/
-**/*.pt
 **/.ipynb_checkpoints/
 **/.idea/

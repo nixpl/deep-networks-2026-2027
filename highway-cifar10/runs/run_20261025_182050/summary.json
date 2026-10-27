@@ -1,0 +1,14 @@
+{
+  "best_test_acc": 91.65,
+  "widths": [
+    32,
+    64,
+    96
+  ],
+  "blocks_per_stage": [
+    4,
+    4,
+    4
+  ],
+  "params": 1110442
+}
