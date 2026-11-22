@@ -1,0 +1,17 @@
+{
+  "best_test_acc": 92.9,
+  "best_test_error": 7.1,
+  "widths": [
+    16,
+    32,
+    64
+  ],
+  "blocks_per_stage": [
+    9,
+    9,
+    9
+  ],
+  "shortcut_option": "B",
+  "weighted_layers": 56,
+  "params": 855770
+}

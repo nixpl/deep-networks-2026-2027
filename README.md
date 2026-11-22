@@ -8,7 +8,7 @@ Zadania z przedmiotu Deep Learning. Każdy projekt jest w osobnym katalogu i zai
    Zaimplementować sieć Highway Network i wytrenować ją na zbiorze CIFAR-10.  
    Artykuł: [Highway Networks](https://arxiv.org/pdf/1505.00387)
 
-2. **ResNet-56 na CIFAR-10**  
+2. **[ResNet-56 na CIFAR-10](resnet56-cifar10/)**  
    Zaimplementować sieć ResNet-56 i wytrenować ją na zbiorze CIFAR-10.  
    Artykuł: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
